@@ -14,6 +14,7 @@ Erin Troetsch
 José Velásquez
 Victor Fiallos
 Maria Aleandra Rodriguez
+Paul Balladares
 
 ## Temas
 Importancia de la Seguridad Alimentaria
