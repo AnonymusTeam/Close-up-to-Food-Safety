@@ -9,8 +9,15 @@ Nicoll Montero
 Maria Clara Zapata
 Miguel Hernández
 Gina Sabillón
+Ivette Reyes
+Erin Troetsch 
+José Velásquez
+Victor Fiallos
+
 ## Temas
 Importancia de la Seguridad Alimentaria
+Cosncientización de la población en temas de seguridad alimentaria a nivel de latinoamerica 
+Simplificación de la información para su fácil comprensión
 
 # Referencias
 https://www.fao.org/faostat/es/#data/FS/visualize
